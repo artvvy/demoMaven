@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ee56201-ae9d-42a3-a285-cac5202116a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/demoMaven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demoMaven/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/api/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/api/target/api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/api/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/main/java/Db.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/main/java/DbSetting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/main/java/MyEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/target/classes/Db.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/target/classes/DbSetting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/target/classes/MyEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/target/db-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/db/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demoMaven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/service/main/java/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/service/target/classes/MyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/service/target/service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoMaven/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29sM9piGbiVdkZphxg7GYDeOrrD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ee56201-ae9d-42a3-a285-cac5202116a8" name="Changes" comment="" />
+      <created>1653897193048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653897193048</updated>
+      <workItem from="1653897195378" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
